@@ -6,4 +6,4 @@ This is a simple readme file
 
 More random updates.
 
-Add more updates on a branch.
+Add more updates on a strange branch.
